@@ -1,6 +1,5 @@
 @include('includes.header')
-@yield('main_content')
-<!--Slider End-->
+@yield('content')
 
 
 @include('includes.footer')
